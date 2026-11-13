@@ -348,3 +348,4 @@ When you continue development on HOSPITALITY, follow these exact step-by-step in
 3. Handle standard responses:
    - Success: `response.data.data`
    - Errors: `response.data.error.message` and `response.data.error.details`
+

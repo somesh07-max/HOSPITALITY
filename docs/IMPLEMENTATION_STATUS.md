@@ -197,3 +197,4 @@
 - [x] `README.md` (Production-grade overview, prerequisites, setup, test, and API usage)
 - [x] `HANDOVER_REMAINING_WORK.md` (Comprehensive handover documentation for the next developer/LLM)
 - [x] `backend/src/config/swagger.ts` (OpenAPI 3.0 specification accessible at `/api/v1/docs`)
+

@@ -20,3 +20,4 @@ describe('Swagger Documentation Endpoints', () => {
     expect(res.text).toContain('swagger-ui');
   });
 });
+

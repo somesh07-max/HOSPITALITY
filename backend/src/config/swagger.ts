@@ -378,3 +378,4 @@ export const setupSwagger = (app: Application): void => {
     res.send(swaggerSpec);
   });
 };
+
